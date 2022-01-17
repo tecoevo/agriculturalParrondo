@@ -1,4 +1,4 @@
-# Unintuitive paradox underlying intuitive crop rotations
+# Leveraging Parrondo's paradox for sustainable agriculture
 
 Project together with 
 

@@ -19,4 +19,14 @@ Overall we also extend the domain of applicability of the seemingly unintuitive 
 In this repository we provide 
 
 - Mathematica codes used for obtaining the figures and some simulaiton results
-- Pyhton codes for simulation results
+- Python codes for simulation results
+
+----
+
+System requirements
+
+- We have provided a human readable code in the form of Mathematica pdf files.
+- The users can use any program of their choice to recreate the figures.
+- For the main text fig.4 the data is generated using the provided Python code the requirement for which are 
+  - State requirements
+- All the mathematica files are generated in Wolfram Mathematica version 13.0 and are annotated and human readable in the PDF formats

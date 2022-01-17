@@ -28,5 +28,5 @@ System requirements
 - We have provided a human readable code in the form of Mathematica pdf files.
 - The users can use any program of their choice to recreate the figures.
 - For the main text fig.4 the data is generated using the provided Python code the requirement for which are 
-  - State requirements
+  - Python Release Python 3.8.5
 - All the mathematica files are generated in Wolfram Mathematica version 13.0 and are annotated and human readable in the PDF formats
